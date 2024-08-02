@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://githubdudu.github.io/githubdudu-2024-sesa-x-wdcc-hackathon/",
+  "homepage": "https://githubdudu.github.io/2024-sesa-x-wdcc-hackathon/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
