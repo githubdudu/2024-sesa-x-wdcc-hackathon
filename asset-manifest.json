@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/css/main.f855e6bc.css",
-    "main.js": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/js/main.c5a0b585.js",
-    "static/js/453.8ab44547.chunk.js": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/js/453.8ab44547.chunk.js",
-    "static/media/UFO.png": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/media/UFO.03cee8380682ea2268e9.png",
-    "index.html": "/githubdudu-2024-sesa-x-wdcc-hackathon/index.html",
-    "main.f855e6bc.css.map": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/css/main.f855e6bc.css.map",
-    "main.c5a0b585.js.map": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/js/main.c5a0b585.js.map",
-    "453.8ab44547.chunk.js.map": "/githubdudu-2024-sesa-x-wdcc-hackathon/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/2024-sesa-x-wdcc-hackathon/static/css/main.f855e6bc.css",
+    "main.js": "/2024-sesa-x-wdcc-hackathon/static/js/main.c15ea29d.js",
+    "static/js/453.8ab44547.chunk.js": "/2024-sesa-x-wdcc-hackathon/static/js/453.8ab44547.chunk.js",
+    "static/media/UFO.png": "/2024-sesa-x-wdcc-hackathon/static/media/UFO.03cee8380682ea2268e9.png",
+    "index.html": "/2024-sesa-x-wdcc-hackathon/index.html",
+    "main.f855e6bc.css.map": "/2024-sesa-x-wdcc-hackathon/static/css/main.f855e6bc.css.map",
+    "main.c15ea29d.js.map": "/2024-sesa-x-wdcc-hackathon/static/js/main.c15ea29d.js.map",
+    "453.8ab44547.chunk.js.map": "/2024-sesa-x-wdcc-hackathon/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c5a0b585.js"
+    "static/js/main.c15ea29d.js"
   ]
 }
